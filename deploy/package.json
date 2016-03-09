@@ -1,0 +1,22 @@
+{
+  "name": "simplewebdeploy",
+  "version": "1.0.0",
+  "description": "The script to deploy a sample web server.",
+  "main": "index.js",
+  "author": "DJia",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-exec": "^0.4.6",
+    "grunt-express-server": "^0.5.2",
+    "load-grunt-tasks": "^3.4.1"
+  }
+}
